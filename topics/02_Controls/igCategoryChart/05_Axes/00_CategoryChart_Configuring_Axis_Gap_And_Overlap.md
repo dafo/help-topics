@@ -1,4 +1,4 @@
-﻿<!--
+<!--
 |metadata|
 {
     "fileName": "igcategorychart-configuring-axis-gap-and-overlap",
